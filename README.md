@@ -1,1 +1,1 @@
-# varna-waether-app
+# Varna Weather App
